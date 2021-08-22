@@ -1,4 +1,4 @@
-package javaLearning;
+package objectOrientedProgramming;
 class TCSEmployeeClass{
 	private String name;
 	private int empId;

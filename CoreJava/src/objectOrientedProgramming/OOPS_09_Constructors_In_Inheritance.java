@@ -1,4 +1,4 @@
-package javaLearning;
+package objectOrientedProgramming;
 
 /* When a child class inherits from a parent class and we create an object of the child class
  * the parent class's non-parameterized constructor is invoked implicitly and after that the 

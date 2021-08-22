@@ -1,4 +1,4 @@
-package javaLearning;
+package objectOrientedProgramming;
 class A{
 	protected int a = 10;
 }

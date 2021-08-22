@@ -1,4 +1,4 @@
-package javaLearning;
+package objectOrientedProgramming;
 
 class DemoClass{
 	// Definition of method1

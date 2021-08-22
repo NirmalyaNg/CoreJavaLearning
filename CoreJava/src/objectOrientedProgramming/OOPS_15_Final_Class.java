@@ -1,4 +1,4 @@
-package javaLearning;
+package objectOrientedProgramming;
 
 final class AClass{
 	int a;

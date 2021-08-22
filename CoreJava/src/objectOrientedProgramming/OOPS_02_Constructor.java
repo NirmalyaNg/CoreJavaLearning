@@ -1,4 +1,4 @@
-package javaLearning;
+package objectOrientedProgramming;
 
 class Student1{
 	int id;

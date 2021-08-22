@@ -1,4 +1,4 @@
-package javaLearning;
+package objectOrientedProgramming;
 
 class Person{
 	String name;

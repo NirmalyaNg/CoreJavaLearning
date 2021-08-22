@@ -1,4 +1,4 @@
-package javaLearning;
+package objectOrientedProgramming;
 
 // Abstraction lets you focus on what the object does instead of how it does it.
 

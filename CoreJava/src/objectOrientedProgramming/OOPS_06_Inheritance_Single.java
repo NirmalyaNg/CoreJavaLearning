@@ -1,4 +1,4 @@
-package javaLearning;
+package objectOrientedProgramming;
 class Father{
 	protected int fProperty = 1500000;
 	

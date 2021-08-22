@@ -1,4 +1,4 @@
-package javaLearning;
+package objectOrientedProgramming;
 
 class Customer{
 	private int cid;

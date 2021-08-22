@@ -1,4 +1,4 @@
-package javaLearning;
+package objectOrientedProgramming;
 class GrandFather{
 	protected int gp = 100000;
 }

@@ -1,4 +1,4 @@
-package javaLearning;
+package objectOrientedProgramming;
 class Student{
 	private String studentName;
 	private int studentId;
